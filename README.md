@@ -1,5 +1,12 @@
 # Sample Spring Application
 
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=anthonygnolan_spring-maven&metric=bugs)](https://sonarcloud.io/summary/new_code?id=anthonygnolan_spring-maven)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=anthonygnolan_spring-maven&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=anthonygnolan_spring-maven)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=anthonygnolan_spring-maven&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=anthonygnolan_spring-maven)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=anthonygnolan_spring-maven&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=anthonygnolan_spring-maven)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=anthonygnolan_spring-maven&metric=coverage)](https://sonarcloud.io/summary/new_code?id=anthonygnolan_spring-maven)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=anthonygnolan_spring-maven&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=anthonygnolan_spring-maven)
+
 
 
 ## Getting started

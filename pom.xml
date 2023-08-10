@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>spring-maven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-maven</name>
+	<name>Sample Spring Application</name>
 	<description>spring-maven</description>
 	<properties>
 		<java.version>17</java.version>

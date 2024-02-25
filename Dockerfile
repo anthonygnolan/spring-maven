@@ -1,4 +1,4 @@
-FROM eclipse-temurin:21
+FROM eclipse-temurin:17
 ARG JAR_FILE=target/*.jar
 
 RUN mkdir /home/nobody

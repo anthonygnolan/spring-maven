@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
  * Javadoc
  */
 @SpringBootTest
-public class ApplicationTest {
+class ApplicationTest {
 
 	/**
 	 * Sole constructor. (For invocation by subclass

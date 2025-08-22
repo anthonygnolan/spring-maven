@@ -3,6 +3,7 @@ package com.example.springmaven;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import static com.example.springmaven.Application.myMethod;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 /**
@@ -26,5 +27,12 @@ class ApplicationTest {
 		Application.main(args);
 		assertNotNull(args);
 	}
+    /**
+     * Javadoc
+     */
+    @Test
+    void myMethodTest() {
+        myMethod();
+    }
 
 }

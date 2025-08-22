@@ -163,18 +163,6 @@
 				<artifactId>maven-surefire-report-plugin</artifactId>
 				<version>3.5.3</version>
 			</plugin>
-			<plugin>
-				<groupId>org.owasp</groupId>
-				<artifactId>dependency-check-maven</artifactId>
-				<version>8.4.3</version>
-				<reportSets>
-					<reportSet>
-						<reports>
-							<report>aggregate</report>
-						</reports>
-					</reportSet>
-				</reportSets>
-			</plugin>
 		</plugins>
 	</reporting>
 	<repositories>

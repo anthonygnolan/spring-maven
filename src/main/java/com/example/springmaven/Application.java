@@ -15,6 +15,13 @@ public class Application {
 	 */
 	Application() { /* Default Constructor */ }
 
+    /**
+     * Javadoc
+     */
+    static void myMethod() {
+        System.out.println("I just got executed!");
+    }
+
 	/**
 	 * Javadoc
 	 *

@@ -1,5 +1,7 @@
 package com.example.springmaven;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -9,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 
+    static Logger logger = LoggerFactory.getLogger(Application.class);
 	/**
 	 * Sole constructor. (For invocation by subclass
 	 * constructors, typically implicit.)
@@ -19,7 +22,7 @@ public class Application {
      * Javadoc
      */
     static void myMethod() {
-        System.out.println("I just got executed!");
+        logger.warn("I just got executed!");
     }
 
 	/**

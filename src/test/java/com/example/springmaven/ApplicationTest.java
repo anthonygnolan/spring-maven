@@ -42,11 +42,11 @@ class ApplicationTest {
     }
 
     @Nested
-    @DisplayName("equality is based on values")
+    @DisplayName("Nested Test")
     class Equality {
         @Test
-        @DisplayName("My method Test")
-        void myMethodTest() {
+        @DisplayName("My nested method Test")
+        void myNestedMethodTest() {
             myMethod();
         }
     }
